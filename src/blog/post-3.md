@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/MarkdownPostLayout.astro
 title: My Third Blog Post
 author: Denys Demianchuk
 description: "I had some challenges, but asking in the community really helped!"
